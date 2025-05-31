@@ -1,6 +1,6 @@
 AWS Diabetes Pipeline
 
-Bu proje, diyabet veri seti üzerinde AWS servisleri kullanılarak bir makine öğrenmesi pipeline’ı geliştirmektedir.
+Bu proje, diyabet veri seti üzerinde AWS servisleri (özellikle SageMaker) kullanılarak bir makine öğrenmesi pipeline’ı geliştirmektedir.
 
 ## İçindekiler
 - Veri ön işleme
